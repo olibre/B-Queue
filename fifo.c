@@ -60,7 +60,9 @@ static ELEMENT_TYPE ELEMENT_ZERO = 0x0UL;
 void queue_init(struct queue_t *q)
 {
 	memset(q, 0, sizeof(struct queue_t));
+#if defined(CONS_BATCH)
 	q->batch_history = CONS_BATCH_SIZE;
+#endif
 }
 
 #if defined(PROD_BATCH) || defined(CONS_BATCH)
