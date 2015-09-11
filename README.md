@@ -27,3 +27,4 @@ CLF).
 * The SP/SC CLF queue of [FastFlow framework](http://sourceforge.net/projects/mc-fastflow/) 
   ([overview](http://www.1024cores.net/home/technologies/fastflow))
 * [boost::lockfree](http://www.boost.org/doc/libs/release/doc/html/lockfree.html)
+* [LMAX Disruptor](https://github.com/LMAX-Exchange/disruptor)
