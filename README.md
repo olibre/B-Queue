@@ -26,3 +26,4 @@ CLF).
   another interresting *single-producer/single-consumer (SP/SC) concurrent lock-free (CLF) queue*
 * The SP/SC CLF queue of [FastFlow framework](http://sourceforge.net/projects/mc-fastflow/) 
   ([overview](http://www.1024cores.net/home/technologies/fastflow))
+* [boost::lockfree](www.boost.org/doc/libs/release/doc/html/lockfree.html)
