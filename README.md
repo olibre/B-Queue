@@ -31,3 +31,4 @@ CLF).
 * https://github.com/cameron314/concurrentqueue
 * https://github.com/rlu-sync/rlu
 * https://github.com/concurrencykit/ck
+* http://stackoverflow.com/questions/8400114/what-is-the-reason-why-high-level-abstractions-that-use-lock-free-programming-de
