@@ -28,3 +28,6 @@ CLF).
   ([overview](http://www.1024cores.net/home/technologies/fastflow))
 * [boost::lockfree](http://www.boost.org/doc/libs/release/doc/html/lockfree.html)
 * [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/) and [Disruptor--](https://github.com/fsaintjacques/disruptor--)
+* https://github.com/cameron314/concurrentqueue
+* https://github.com/rlu-sync/rlu
+* https://github.com/concurrencykit/ck
