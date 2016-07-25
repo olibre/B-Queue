@@ -29,7 +29,7 @@ CLF).
 * [boost::lockfree](http://www.boost.org/doc/libs/release/doc/html/lockfree.html)
 * [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/) and [Disruptor--](https://github.com/fsaintjacques/disruptor--)
 * https://github.com/cameron314/concurrentqueue [Reddit](https://www.reddit.com/r/programming/comments/2ll7bf) [Hacker news](https://news.ycombinator.com/item?id=8575152)
-* [Read-Log-Update](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/077-matveev.pdf) [GitHub](https://github.com/rlu-sync/rlu) [YouTube](https://www.youtube.com/watch?v=at9cxc3JTkY)
+* [Read-Log-Update](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/077-matveev.pdf) [GitHub](https://github.com/yunduz/rlu) [YouTube](https://www.youtube.com/watch?v=at9cxc3JTkY)
 * https://github.com/concurrencykit/ck
 * [stackoverflow.com - What is the reason why high level abstractions that use lock free programming deep down aren't popular?](http://stackoverflow.com/questions/8400114)
 * [A Wait-free Queue as Fast as Fetch-and-Add](http://chaoran.me/assets/pdf/wfq-ppopp16.pdf) (2016)
