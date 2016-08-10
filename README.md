@@ -36,3 +36,4 @@ CLF).
 * [Fast Concurrent Queues for x86 Processors](http://www.cs.tau.ac.il/~adamx/publications/ppopp2013-x86queues.pdf) (2013)
 * [Lock-free MPMC Queue](cppnow2015.sched.org/event/ae11e93c8692544c41310615b544abd0) at C++Now mai 2015 (Aspen, USA)
 * [Folly MPMC Queue](https://github.com/facebook/folly/blob/master/folly/MPMCQueue.h)
+* [The Lynx Queue](http://www-dyn.cl.cam.ac.uk/~tmj32/wordpress/the-lynx-queue/)
