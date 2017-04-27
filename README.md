@@ -37,3 +37,10 @@ CLF).
 * [Lock-free MPMC Queue](cppnow2015.sched.org/event/ae11e93c8692544c41310615b544abd0) at C++Now mai 2015 (Aspen, USA)
 * [Folly MPMC Queue](https://github.com/facebook/folly/blob/master/folly/MPMCQueue.h)
 * [The Lynx Queue](http://www-dyn.cl.cam.ac.uk/~tmj32/wordpress/the-lynx-queue/)
+
+## C++ Frameworks
+
+* [Elle](https://github.com/infinit/elle) C++14 asynchronous/coroutine framework used by Infiniti distributed-encrypted filesystem
+* [SeaStar](https://github.com/scylladb/seastar) non-blocking asynchronous event-driven C++14 framework used by NOSQL ScyllaDB (see [tutorial](https://github.com/scylladb/seastar/blob/master/doc/tutorial.md))
+* [Boson](https://github.com/duckie/boson) C++14 asynchronous/coroutine framework similar to Go channels
+* [MC FastFlow](http://sourceforge.net/projects/mc-fastflow/) **M**ulti-**C**ore friendly framework in old C++98 (published in 2009) and still maintained
